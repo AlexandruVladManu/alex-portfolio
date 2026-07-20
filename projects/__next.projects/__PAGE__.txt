@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[32363,["/alex-portfolio/_next/static/chunks/75932ae56dd54f8c.js","/alex-portfolio/_next/static/chunks/b9455d2ba5d90898.js","/alex-portfolio/_next/static/chunks/22b1a339123b5eca.js","/alex-portfolio/_next/static/chunks/75271b6730710f6f.js"],"default"]
-3:I[8392,["/alex-portfolio/_next/static/chunks/75932ae56dd54f8c.js","/alex-portfolio/_next/static/chunks/b9455d2ba5d90898.js","/alex-portfolio/_next/static/chunks/22b1a339123b5eca.js","/alex-portfolio/_next/static/chunks/75271b6730710f6f.js"],"default"]
+2:I[32363,["/alex-portfolio/_next/static/chunks/75932ae56dd54f8c.js","/alex-portfolio/_next/static/chunks/b9455d2ba5d90898.js","/alex-portfolio/_next/static/chunks/b59e827c8d78cbaa.js","/alex-portfolio/_next/static/chunks/c4d692ecd2bff903.js"],"default"]
+3:I[8392,["/alex-portfolio/_next/static/chunks/75932ae56dd54f8c.js","/alex-portfolio/_next/static/chunks/b9455d2ba5d90898.js","/alex-portfolio/_next/static/chunks/b59e827c8d78cbaa.js","/alex-portfolio/_next/static/chunks/c4d692ecd2bff903.js"],"default"]
 4:I[2302,["/alex-portfolio/_next/static/chunks/9b243ffbfa07ea53.js","/alex-portfolio/_next/static/chunks/4f1233457827b135.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"K7TRug6OYTxGKfXVV20KO","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"bg-[#02050c]","children":[["$","$L2",null,{}],["$","$L3",null,{"variant":"embedded"}]]}],[["$","script","script-0",{"src":"/alex-portfolio/_next/static/chunks/75271b6730710f6f.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"2EUNHDvwFfsEzCFwi6w0-","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"bg-[#02050c]","children":[["$","$L2",null,{}],["$","$L3",null,{"variant":"embedded"}]]}],[["$","script","script-0",{"src":"/alex-portfolio/_next/static/chunks/c4d692ecd2bff903.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
